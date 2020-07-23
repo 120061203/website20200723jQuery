@@ -22,7 +22,7 @@
     text-align: center;
     background-color: #aaa;
     border: 1px solid white;
-    display: none;
+    /* display: none; */
 }
 
 .wrapper {
