@@ -29,3 +29,10 @@
     width: 32%;
     display: inline-block;
 }
+
+.box1 {
+    background-color: #0a3;
+    height: 100px;
+    width: 100px;
+    position: relative;
+}
